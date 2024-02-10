@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Project Links
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Tableau Case Study](https://public.tableau.com/app/profile/samuel.davison/viz/TableauCaseStudy-CFI/Dashboard1/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
