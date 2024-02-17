@@ -4,7 +4,7 @@
 
 ### Tabelau 
 
-[Tableau Case Study](/tableau_github_details_page.pdf)
+[Tableau Case Study](/sample page)
 <img src="images/git hub1 pic 1 tableau.jpg?raw=true"/>
 
 ---
