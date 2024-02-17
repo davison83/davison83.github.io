@@ -6,7 +6,7 @@
 
 [Tableau Case Study](/pdf/tableau_github_details_page.pdf)
 <img src="images/git hub1 pic 1 tableau.jpg?raw=true"/>
-
+<img src="images/github1_pic2_tableau.JPG?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
