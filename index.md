@@ -8,7 +8,7 @@
 <img src="images/git hub1 pic 1 tableau.jpg?raw=true"/>
 <img src="images/github1_pic2_tableau.JPG?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Power BI Case Study](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,7 +20,7 @@
 ### Project Links
 
 - [Project 1 Tableau Case Study](https://public.tableau.com/app/profile/samuel.davison/viz/TableauCaseStudy-CFI/Dashboard1/)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Power BI Case Study](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
