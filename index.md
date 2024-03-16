@@ -17,7 +17,7 @@
 ### Project Links
 
 - [Project 1 Tableau Case Study](https://public.tableau.com/app/profile/samuel.davison/viz/TableauCaseStudy-CFI/Dashboard1/)
-- [Project 2 Power BI Case Study](/pdf/tableau_github_details_page_finished.pdf)
+- [Project 2 Power BI Case Study](/pdf/PowerBI_CaseStudy_Final.pdf)
 
 
 ---
