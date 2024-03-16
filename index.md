@@ -9,8 +9,8 @@
 <img src="images/github1_pic2_tableau.JPG?raw=true"/>
 ---
 [Power BI Case Study](/pdf/sample_presentation.pdf)
-<img src="images/github_powerbi_pic1.jpg?raw=true"/>
-<img src="images/github_powerbi_pic2.jpg?raw=true"/>
+<img src="images/github_powerbi_pic1.JPG?raw=true"/>
+<img src="images/github_powerbi_pic2.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
