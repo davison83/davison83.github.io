@@ -26,5 +26,5 @@
 
 
 ---
-<p style="font-size:11px"><evanca</a></p>
+<p style="font-size:11px">
 <!-- Remove above link if you don't want to attibute -->
