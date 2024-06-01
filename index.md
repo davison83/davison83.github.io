@@ -11,7 +11,7 @@
 <img src="images/github_powerbi_pic2.JPG?raw=true"/>
 ---
 [SQL and Excel Project](/pdf/SQL_and_Excel_Project.pdf)
-<img src="images/SQL_Excel_Photo.jpg?raw=true"/>
+<img src="images/SQL_Excel_Photo.JPG?raw=true"/>
 ---
 ### Project Links
 
