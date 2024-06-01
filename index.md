@@ -10,14 +10,14 @@
 <img src="images/github_powerbi_pic1.JPG?raw=true"/>
 <img src="images/github_powerbi_pic2.JPG?raw=true"/>
 ---
-[SQL and Excel Project](/pdf/SQL_and_Excel_Project.pdf)
+[SQL and Excel Data Analysis](/pdf/SQL_and_Excel_Project.pdf)
 <img src="images/SQL_Excel_Photo.JPG?raw=true"/>
 ---
 ### Project Links
 
 - [Project 1 Tableau Case Study](https://public.tableau.com/app/profile/samuel.davison/viz/TableauCaseStudy-CFI/Dashboard1/)
 - [Project 2 Power BI Case Study](/pdf/PowerBI_CaseStudy_Final.pdf)
-- [Project 3 SQL and Excel Project](https://1drv.ms/x/c/df9778aecb110d9e/IQMv0ptP2C0aTYg_mL10a6Q_AaQt12Ud66UwcSMCDyBAyAo?wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True")
+- [Project 3 SQL and Excel Data Analysis](https://1drv.ms/x/c/df9778aecb110d9e/IQMv0ptP2C0aTYg_mL10a6Q_AaQt12Ud66UwcSMCDyBAyAo?wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True")
 
 
 ---
