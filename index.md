@@ -17,7 +17,7 @@
 
 - [Project 1 Tableau Case Study](https://public.tableau.com/app/profile/samuel.davison/viz/TableauCaseStudy-CFI/Dashboard1/)
 - [Project 2 Power BI Case Study](/pdf/PowerBI_CaseStudy_Final.pdf)
-- [Project 3 SQL and Excel Project] <iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/df9778aecb110d9e/IQMv0ptP2C0aTYg_mL10a6Q_AaQt12Ud66UwcSMCDyBAyAo?wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+- [Project 3 SQL and Excel Project] (<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/df9778aecb110d9e/IQMv0ptP2C0aTYg_mL10a6Q_AaQt12Ud66UwcSMCDyBAyAo?wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>)
 
 
 ---
